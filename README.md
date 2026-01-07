@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Researcer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
@@ -75,7 +75,8 @@
 
 </div>
 -->
- 
+
+ <!--
  ### Github Profile Summary Card
  
  <div align=center>
@@ -91,7 +92,6 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=white-richard&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
  </div>
- 
  ### Activity Graph
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=white-richard&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -103,6 +103,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=white-richard&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
+ -->
 
  <!--
  ### Profile Trophies
@@ -137,7 +138,7 @@
 
 ------
 -->
-
+<!--
 Credit: [white-richard](https://github.com/white-richard)
-
+-->
 Last Edited on: 10/26/2025

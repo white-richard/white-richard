@@ -3,9 +3,10 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Rich White
+  Hi there! I'm Rich White
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
 </h3>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">

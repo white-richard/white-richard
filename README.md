@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi there! I'm Rich White
+  Hi, I'm Rich White!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
 </h3>
 
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20passionate%20about%20machine%20learning;Research%20Assistant;I'm%20always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you'd%20like%20to%20connect!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45"
+      src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20passionate%20about%20machine%20learning%20research;Currently%20a%20graduate%20student%20at%20UNR;I'm%20always%20learning%20new%20things;Feel%20free%20to%20look%20around;Reach%20out%20if%20you'd%20like%20to%20connect!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=600&height=50&duration=4000"
       alt="Typing SVG"
     />
   </a>
@@ -39,7 +39,6 @@
 
 ### ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
